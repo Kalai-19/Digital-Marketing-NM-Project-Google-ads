@@ -5,5 +5,4 @@ TEAM MEMBERS
             GAYATHRI M -   8C3103751F6E53A912C427872B22528B
             KEERTHIKA U - CE509193B6D6DEFB78C463EF54C64227
             MANIKANDAN M - E03E165887E55B3800F4A0EB874EF305
-      PROJECT LINK - 
-      DEMO LINK - https://drive.google.com/file/d/1JHT-8zZToOn82NNIXh87psxCMFfrDNOM/view?usp=drivesdk
+        DEMO LINK - https://drive.google.com/file/d/1JHT-8zZToOn82NNIXh87psxCMFfrDNOM/view?usp=drivesdk
